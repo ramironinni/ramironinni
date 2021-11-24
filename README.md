@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently looking for a new job.
 
-- 🧑‍🎓 I'm working hard with **The Odin Project Full Stack JS Path**.
+- 🧑‍🎓 I'm working hard with **The Odin Project Full Stack JS Path** and other courses.
 
-- 🌱 I’m currently learning **JS, React, Node.js, SQL**
+- 🌱 I’m currently learning the MERN Stack **MongoDb, Express, React and Node**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ramironinni](https://github.com/ramironinni)
 

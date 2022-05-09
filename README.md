@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for a new job.
 
-- 🧑‍🎓 I'm working hard with **The Odin Project Full Stack JS Path** and other courses.
+- 🧑‍🎓 I'm love learning new things everyday.
 
 - 🌱 I’m currently learning the MERN Stack **MongoDb, Express, React and Node**
 
